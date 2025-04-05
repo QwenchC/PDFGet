@@ -30,7 +30,6 @@ PDFGet是一款简单高效的Android应用，专为浏览网页并保存为PDF�
 
 <table>
   <tr>
-    <td><img src="app/src/main/res/drawable/Screenshot_01.jpg" alt="首页截图" width="250"/></td>
     <td><img src="app/src/main/res/drawable/Screenshot_02.jpg" alt="浏览界面" width="250"/></td>
     <td><img src="app/src/main/res/drawable/Screenshot_03.jpg" alt="PDF导出" width="250"/></td>
   </tr>
