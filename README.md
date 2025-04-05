@@ -28,6 +28,8 @@ PDFGet是一款简单高效的Android应用，专为浏览网页并保存为PDF�
 2. **网页显示区域**: 占据大部分屏幕空间的WebView组件
 3. **控制面板**: 底部的地址栏、缩放控制、目录选择和PDF导出选项
 ![PDFGet Logo](app/src/main/res/drawable/Screenshot_01.jpg)
+![PDFGet Logo](app/src/main/res/drawable/Screenshot_02.jpg)
+![PDFGet Logo](app/src/main/res/drawable/Screenshot_03.jpg)
 
 ## 使用指南
 
